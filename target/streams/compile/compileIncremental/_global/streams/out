@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 54 products, 27 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/aoc/Day07.scala, ${BASE}/src/main/scala/aoc/Day22.scala, ${BASE}/src/main/scala/aoc/Day15.scala, ${BASE}/src/main/scala/aoc/Day01.scala, ${BASE}/src/main/scala/aoc/Day10.scala, ${BASE}/src/main/scala/util/Input.scala, ${BASE}/src/main/scala/aoc/Day19.scala, ${BASE}/src/main/scala/aoc/Day17.scala, ${BASE}/src/main/scala/aoc/Day23.scala, ${BASE}/src/main/scala/aoc/Day21.scala, ${BASE}/src/main/scala/aoc/Day09.scala, ${BASE}/src/main/scala/aoc/Day18.scala, ${BASE}/src/main/scala/aoc/Day02.scala, ${BASE}/src/main/scala/aoc/Day25.scala, ${BASE}/src/main/scala/aoc/Day05.scala, ${BASE}/src/main/scala/aoc/Day04.scala, ${BASE}/src/main/scala/aoc/Day03.scala, ${BASE}/src/main/scala/aoc/Day24.scala, ${BASE}/src/main/scala/aoc/Day06.scala, ${BASE}/src/main/scala/aoc/Day13.scala, ${BASE}/src/main/scala/aoc/Day12.scala, ${BASE}/src/main/scala/aoc/Runner.scala, ${BASE}/src/main/scala/aoc/Day16.scala, ${BASE}/src/main/scala/aoc/Day08.scala, ${BASE}/src/main/scala/aoc/Day14.scala, ${BASE}/src/main/scala/aoc/Day20.scala, ${BASE}/src/main/scala/aoc/Day11.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/aoc/Day01.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/aoc/Day01.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(aoc.Day01)[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(aoc.Day01)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/aoc/Day01.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: aoc.Day01[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Usuario\Documents\GitHub\adventOfCode2025\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\Usuario\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala2-sbt-bridge\2.13.12\scala2-sbt-bridge-2.13.12.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 53a7cc7d for Scala compiler version 2.13.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Usuario\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Usuario\Documents\GitHub\adventOfCode2025\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.8004409 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
