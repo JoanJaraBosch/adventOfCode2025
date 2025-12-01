@@ -3,3 +3,23 @@
 /workspace.xml
 /.idea
 .idea
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# sbt / Scala
+target/
+project/target/
+project/project/
+lib_managed/
+src_managed/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
