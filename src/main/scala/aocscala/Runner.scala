@@ -1,4 +1,4 @@
-package aoc
+package aocscala
 
 object Runner {
 
@@ -15,6 +15,19 @@ object Runner {
     10 -> (() => Day10.main(Array())),
     11 -> (() => Day11.main(Array())),
     12 -> (() => Day12.main(Array())),
+    13 -> (() => Day13.main(Array())),
+    14 -> (() => Day14.main(Array())),
+    15 -> (() => Day15.main(Array())),
+    16 -> (() => Day16.main(Array())),
+    17 -> (() => Day17.main(Array())),
+    18 -> (() => Day18.main(Array())),
+    19 -> (() => Day19.main(Array())),
+    20 -> (() => Day20.main(Array())),
+    21 -> (() => Day21.main(Array())),
+    22 -> (() => Day22.main(Array())),
+    23 -> (() => Day23.main(Array())),
+    24 -> (() => Day24.main(Array())),
+    25 -> (() => Day25.main(Array())),
   )
 
   def main(args: Array[String]): Unit = {

@@ -1,6 +1,6 @@
-package aoc
+package aocscala
 
-import util.Input
+import util.InputScala
 
 object Day20 {
 
@@ -13,7 +13,7 @@ object Day20 {
   }
 
   def main(args: Array[String]): Unit = {
-    val data = Input.readLines(20)
+    val data = InputScala.readLines(20)
     println(s"Part 1: ${part1(data)}")
     println(s"Part 2: ${part2(data)}")
   }
